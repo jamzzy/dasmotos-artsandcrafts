@@ -6,3 +6,28 @@ h1 {
     text-align: center;
     background-image: url('Images/pattern.webp');
 }
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.msgreen-background {
+    background-color: mediumspringgreen;
+}
+
+.lcoral-background {
+    background-color: lightcoral;
+}
+
+.sblue-background {
+    background-color: skyblue;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
