@@ -19,4 +19,4 @@ Project is created with:
 * CSS4
 
 ### Sources
-This is a JavaScript  project called *Off-Platform Project: Dasmoto's Arts & Crafts* from the Codecademy Full-Stack Engineer career path. The images were also provided by Codecademy.
+This is a project called *Off-Platform Project: Dasmoto's Arts & Crafts* from the Codecademy Full-Stack Engineer career path. The images were also provided by Codecademy.
