@@ -11,7 +11,7 @@ A simple website to practice basic html and css.
 
 This website was created to practice the html and css concepts learned in Codecademy with details from the spec sheet below:
 
-![Spec Sheet](https://github.com/jamzzy/dasmotos-artsandcrafts/blob/main/SpecSheet/dasmotos-arts_redline.webp?raw=true)
+![Spec Sheet](https://github.com/jamzzy/dasmotos-artsandcrafts/blob/main/specsheet/dasmotos-arts_redline.webp?raw=true)
 
 ### Technologies
 Project is created with:
