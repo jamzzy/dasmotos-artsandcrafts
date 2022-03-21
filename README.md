@@ -15,8 +15,8 @@ This website was created to practice the html and css concepts learned in Codeca
 
 ### Technologies
 Project is created with:
-* HTML5
-* CSS4
+* HTML 5
+* CSS 3
 
 ### Sources
 This is a project called *Off-Platform Project: Dasmoto's Arts & Crafts* from the Codecademy Full-Stack Engineer career path. The images were also provided by Codecademy.
